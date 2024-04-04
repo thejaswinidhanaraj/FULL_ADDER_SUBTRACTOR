@@ -41,6 +41,7 @@ Borrow out = A'Bin + A'B + BBin
 ![WhatsApp Image 2024-04-04 at 13 09 20_4b7d8534](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/2d60acd5-08e4-499c-a791-0cca6bc33d34)
 
 Full Subractor:
+
 ![WhatsApp Image 2024-04-04 at 13 48 36_c9a86522](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/7b87d20a-770c-407c-a4c5-64551b5e6ec5)
 
 
@@ -114,6 +115,7 @@ DELL
 ![WhatsApp Image 2024-04-04 at 13 09 20_bef65a2d](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/99a144bc-3fc9-43f3-903a-fe93885361d6)
 
 Full Subractor:
+
 ![WhatsApp Image 2024-04-04 at 13 48 35_1647607f](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/04951de9-416b-4dfc-89b0-75b9e36c38e3)
 
 
@@ -122,6 +124,7 @@ Full Subractor:
 ![WhatsApp Image 2024-04-04 at 13 09 20_397da2b4](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/ed7a85df-d99f-4509-937c-ec355f0c2070)
 
 Full Subractor:
+
 ![WhatsApp Image 2024-04-04 at 13 48 36_8c840fbf](https://github.com/thejaswinidhanaraj/FULL_ADDER_SUBTRACTOR/assets/148514511/56988f10-868a-4ab2-8c2a-3cda84a22320)
 
 **Result:**
